@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-20T17:58:40Z" name="Default suite" finished-at="2023-05-20T18:00:51Z" duration-ms="130978">
+    <groups>
+    </groups>
+    <test started-at="2023-05-20T17:58:40Z" name="Default test" finished-at="2023-05-20T18:00:51Z" duration-ms="130978">
+      <class name="tutorialNinja.Tutorial">
+        <test-method is-config="true" signature="start()[pri:0, instance:tutorialNinja.Tutorial@1cf6d1be]" started-at="2023-05-20T17:58:40Z" name="start" finished-at="2023-05-20T17:58:54Z" duration-ms="13880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="register()[pri:1, instance:tutorialNinja.Tutorial@1cf6d1be]" started-at="2023-05-20T17:58:54Z" name="register" finished-at="2023-05-20T17:58:59Z" duration-ms="5741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tutorialNinja.Tutorial@1cf6d1be]" started-at="2023-05-20T17:58:59Z" name="teardown" finished-at="2023-05-20T17:59:07Z" duration-ms="7402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="start()[pri:0, instance:tutorialNinja.Tutorial@1cf6d1be]" started-at="2023-05-20T17:59:07Z" name="start" finished-at="2023-05-20T17:59:17Z" duration-ms="10214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="login()[pri:2, instance:tutorialNinja.Tutorial@1cf6d1be]" started-at="2023-05-20T17:59:17Z" name="login" finished-at="2023-05-20T17:59:22Z" duration-ms="4931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tutorialNinja.Tutorial@1cf6d1be]" started-at="2023-05-20T17:59:22Z" name="teardown" finished-at="2023-05-20T17:59:27Z" duration-ms="5309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="start()[pri:0, instance:tutorialNinja.Tutorial@1cf6d1be]" started-at="2023-05-20T17:59:27Z" name="start" finished-at="2023-05-20T17:59:39Z" duration-ms="11668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="addtcart()[pri:3, instance:tutorialNinja.Tutorial@1cf6d1be]" started-at="2023-05-20T17:59:39Z" name="addtcart" finished-at="2023-05-20T17:59:53Z" duration-ms="13866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtcart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tutorialNinja.Tutorial@1cf6d1be]" started-at="2023-05-20T17:59:53Z" name="teardown" finished-at="2023-05-20T17:59:59Z" duration-ms="6494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="start()[pri:0, instance:tutorialNinja.Tutorial@1cf6d1be]" started-at="2023-05-20T17:59:59Z" name="start" finished-at="2023-05-20T18:00:10Z" duration-ms="10883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="checkout()[pri:4, instance:tutorialNinja.Tutorial@1cf6d1be]" started-at="2023-05-20T18:00:10Z" name="checkout" finished-at="2023-05-20T18:00:41Z" duration-ms="30294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tutorialNinja.Tutorial@1cf6d1be]" started-at="2023-05-20T18:00:41Z" name="teardown" finished-at="2023-05-20T18:00:51Z" duration-ms="10189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tutorialNinja.Tutorial -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
